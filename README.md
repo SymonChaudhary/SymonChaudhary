@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/SymonChaudhary/SymonChaudhary/blob/main/symon.gif"/>
+<img align="center" src="https://github.com/SymonChaudhary/SymonChaudhary/blob/main/symon.gif" loop=infinite />
 
 
 
